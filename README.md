@@ -9,6 +9,7 @@ This project was created as a beginner-friendly web development project to pract
 ## 📸 Screenshot
 
 ![Digital Calculator](calculator.png)
+![Digital Calculator](calculator1.png)
 
 ---
 
