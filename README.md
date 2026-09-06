@@ -1,39 +1,47 @@
 # 🧮 Digital Calculator
 
-A simple and user-friendly digital calculator built using HTML, CSS, and JavaScript.
+A simple and user-friendly digital calculator built using **HTML, CSS, and JavaScript**.
+
+This project was created as a beginner-friendly web development project to practice **HTML structure, CSS styling, JavaScript logic, event handling, and GitHub**.
+
+---
+
+## 📸 Screenshot
+
+![Digital Calculator](calculator.png)
+
+---
 
 ## ✨ Features
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Clear button
-- User-friendly interface
-- Responsive design
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 🔄 Clear / Reset functionality
+- 🔢 Decimal number calculations
+- 🖥️ Simple and clean user interface
+- 📱 Responsive design
+
+---
 
 ## 🛠️ Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Creates the structure of the calculator |
+| CSS3 | Designs and styles the calculator |
+| JavaScript | Handles calculator logic and operations |
 
-## ▶️ How to Run
+---
 
-1. Download or clone this repository.
-2. Open `index.html` in your browser.
-3. Start using the calculator.
+## 📂 Project Structure
 
-## 📚 What I Learned
-
-While building this project, I practiced:
-
-- HTML structure
-- CSS styling
-- JavaScript functions
-- DOM manipulation
-- Event handling
-
-## 👩‍💻 Author
-
-**Rohini**
+```text
+Digital-Calculator/
+│
+├── index.html
+├── style.css
+├── script.js
+├── calculator.png
+└── README.md
